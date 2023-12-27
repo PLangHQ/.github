@@ -12,22 +12,12 @@ PLang is a programming language, it uses natural language as its syntax. The dev
 
 This allows the developer to focus on the problem of the product and not be bogged down in the detail of implementation.
 
-## Hello plang world
-
-This is an example of a hello world app
-
-```plang
-Start
-- write out 'Hello plang world'
-```
-
-Then you run it
-```bash
-$ plang exec
-```
-## Documentation
-- Best place to start is to check out the documentation here, https://github.com/PLangHQ/documentation
-
+## I want to 
+- [Install plang](https://github.com/PLangHQ/plang/blob/main/Documentation/Install.md)
+- [Create using plang](https://github.com/PLangHQ/plang/blob/main/Documentation/GetStarted.md)
+- [Develop the programming language (advanced, c# code)](https://github.com/PLangHQ/plang/blob/main/Documentation/PLangDevelopment.md)
+- [Ask questions](https://github.com/orgs/PLangHQ/discussions)
+- [Say hi on Discord](https://discord.gg/A8kYUymsDD)
 
 
 <!--
