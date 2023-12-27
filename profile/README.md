@@ -10,11 +10,13 @@ Join our community on [Discord](https://discord.gg/A8kYUymsDD) | Follow us on [T
 
 </center>
 ## Introduction
+
 PLang is a programming language, it uses natural language as its syntax. The developer describes the intents in steps, that are then transformed with LLM into callable predefined modules.
 
 This allows the developer to focus on the problem of the product and not be bogged down in the detail of implementation.
 
 ## Hello plang world
+
 This is an example of a hello world app
 
 ```plang
