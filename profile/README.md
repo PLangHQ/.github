@@ -1,5 +1,3 @@
-<center>
-
 # PLang Programming Language
 
 ![PLang Logo](https://plang.is/android-chrome-192x192.png)
@@ -8,7 +6,6 @@
 
 Join our community on [Discord](https://discord.gg/A8kYUymsDD) | Follow us on [Twitter](https://twitter.com/planghq)
 
-</center>
 ## Introduction
 
 PLang is a programming language, it uses natural language as its syntax. The developer describes the intents in steps, that are then transformed with LLM into callable predefined modules.
