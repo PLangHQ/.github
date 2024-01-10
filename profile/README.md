@@ -40,28 +40,28 @@ Set up Plang on your system. Download Plang from [the download page](http://plan
 
 ## Getting Started
 
-Explore plang's capabilities and start building today. For initial steps and guidance, see [Getting Started with plang](./GetStarted.md).
+Explore plang's capabilities and start building today. For initial steps and guidance, see [Getting Started with plang](https://github.com/PLangHQ/plang/tree/main/Documentation/GetStarted.md).
 
 ## Usage
 
 Explore plang's features and capabilities:
 
 - **Basics for everybody**
-    - **[Development Environment (IDE)](./IDE.md)**: This is where you write your code. Makes sure to setup your development environment.
-    - **[Rules](./Rules.md)**: The basic rules to follow when writing plang code.
+    - **[Development Environment (IDE)](https://github.com/PLangHQ/plang/tree/main/Documentation/IDE.md)**: This is where you write your code. Makes sure to setup your development environment.
+    - **[Rules](https://github.com/PLangHQ/plang/tree/main/Documentation/Rules.md)**: The basic rules to follow when writing plang code.
 - **Basics for beginners**
-    - **[Variables](./Variables.md)**: Learn about `%variables%` in plang and how to use them.
-    - **[Conditions](./Conditions.md)**: Understanding `if` statements and conditional logic in plang.
-    - **[Loops](./Loop.md)**: Explore how to go through a list of data
-    - **[Date & Time](./Time.md)**: How you work with `%Now%`, the date and time of the system
+    - **[Variables](https://github.com/PLangHQ/plang/tree/main/Documentation/Variables.md)**: Learn about `%variables%` in plang and how to use them.
+    - **[Conditions](https://github.com/PLangHQ/plang/tree/main/Documentation/Conditions.md)**: Understanding `if` statements and conditional logic in plang.
+    - **[Loops](https://github.com/PLangHQ/plang/tree/main/Documentation/Loop.md)**: Explore how to go through a list of data
+    - **[Date & Time](https://github.com/PLangHQ/plang/tree/main/Documentation/Time.md)**: How you work with `%Now%`, the date and time of the system
 - **For everybody**
     - **[Debugging]()**: Learn how to debug when programming in the plang language
     - **[Examples](https://github.com/PLangHQ/plang/tree/main/Tests)**: See list of plang code examples, it can help you get started    
     - **[Apps](https://github.com/PLangHQ/apps/)**: See list of available apps, written in plang. Great for learning.
 - **Advanced**
-    - **[Identity](./Identity.md)**: What is Identity and why is it so important
-    - **[Private keys](./PrivateKeys.md)**: What private keys are in the system and where are they stored.
-    - **[Settings](./Settings.md)**: How to store and use settings in your app such as API keys and other sensitive data.
+    - **[Identity](https://github.com/PLangHQ/plang/tree/main/Documentation/Identity.md)**: What is Identity and why is it so important
+    - **[Private keys](https://github.com/PLangHQ/plang/tree/main/Documentation/PrivateKeys.md)**: What private keys are in the system and where are they stored.
+    - **[Settings](https://github.com/PLangHQ/plang/tree/main/Documentation/Settings.md)**: How to store and use settings in your app such as API keys and other sensitive data.
     - **[Events](https://github.com/PLangHQ/documentation/tree/main/Events.md)**: Learn about event-driven programming in plang.
     - **[Modules](https://github.com/PLangHQ/modules/README.md)**: Learn how to extend the language. Discover the different modules available in plang and their capabilities. 
     - **[Services]()**: Learn how flexible the plang language is, e.g. using the db engine of your choice, your own caching service and more.
