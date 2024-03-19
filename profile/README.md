@@ -33,10 +33,9 @@ Then you build & run it
 $ plang exec
 ```
 
-
 ## Installation
 
-Set up Plang on your system. Download Plang from [the download page](http://plang.is/download) and follow our [Installation Guide](https://github.com/PLangHQ/plang/blob/main/Documentation/Install.md).
+Set up Plang on your system. Download Plang from [the download page](https://github.com/PLangHQ/plang/releases) and follow our [Installation Guide](https://github.com/PLangHQ/plang/blob/main/Documentation/Install.md).
 
 ## Getting Started
 
