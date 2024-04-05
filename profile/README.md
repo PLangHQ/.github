@@ -7,7 +7,7 @@
 
 ***Plang is a modern programming language written in natural language.***
 
-Join our community on [Discord](https://discord.gg/A8kYUymsDD) | Follow us on [Twitter](https://twitter.com/planghq)
+Join our community on [Discord](https://discord.gg/A8kYUymsDD) | Follow us on [Twitter](https://twitter.com/planghq) | [Youtube channel](https://www.youtube.com/@plangHQ)
 
 
 ## Introduction
