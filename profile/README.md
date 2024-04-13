@@ -66,9 +66,10 @@ Explore plang's features and capabilities:
     - **[Identity](https://github.com/PLangHQ/plang/blob/main/Documentation/Identity.md)**: What is Identity and why is it so important
     - **[Private keys](https://github.com/PLangHQ/plang/blob/main/Documentation/PrivateKeys.md)**: What private keys are in the system and where are they stored.
     - **[Settings](https://github.com/PLangHQ/plang/blob/main/Documentation/Settings.md)**: How to store and use settings in your app such as API keys and other sensitive data.
+    - **[Building your code](https://github.com/PLangHQ/plang/blob/main/Documentation/Builder.md)**: How does the builder take your intent and convert it to executable code.
+    - **[Builder Lifecycle & Events](https://github.com/PLangHQ/plang/blob/main/Documentation/BuilderLifcycle.md)**: Sequence of operations when building plang and build events
     - **[Runtime Lifecycle](https://github.com/PLangHQ/plang/blob/main/Documentation/RuntimeLifcycle.md)**: Sequence of operations when running plang
     - **[Runtime Events](https://github.com/PLangHQ/plang/blob/main/Documentation/Events.md)**: Learn about event-driven programming in plang.
-    - **[Builder Lifecycle & Events](https://github.com/PLangHQ/plang/blob/main/Documentation/BuilderLifcycle.md)**: Sequence of operations when building plang and build events
     - **[Performance](https://github.com/PLangHQ/plang/blob/main/Documentation/Performance.md)**: What is the perfomance of plang? 
     - **[Modules](https://github.com/PLangHQ/plang/blob/main/Documentation/modules/README.md)**: Learn how to extend the language. Discover the different modules available in plang and their capabilities. 
     - **[Services](https://github.com/PLangHQ/plang/blob/main/Documentation/Services.md)**: Learn how flexible the plang language is, e.g. using the db engine of your choice, your own caching service and more.
