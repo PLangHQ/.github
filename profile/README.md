@@ -22,10 +22,6 @@ Plang provides increased security and privacy to both developer and users of the
 
 ## Example of user registration
 
-> [!CAUTION]
-> **Heads up: Building code costs money**
-> Each code line incurs usually between $0.01 - $0.07 fee via LLM. The payoff? Exceptional efficiency gains. You can choose to use [Plang service(simpler) or OpenAI(cheaper)](https://github.com/PLangHQ/plang/blob/main/Documentation/PlangOrOpenAI.md). Using Plang service supports the project
-
 This is an example of how effienct it is to written in plang. 
 
 Following is executable code
@@ -53,6 +49,10 @@ Programming in plang will give you
 - Will become most stable, secure and private app you have ever written without having to think about it
   
 ## Installation
+
+> [!CAUTION]
+> **Heads up: Building code costs money**
+> Each code line incurs usually between $0.01 - $0.07 fee via LLM. The payoff? Exceptional efficiency gains. You can choose to use [Plang service(simpler) or OpenAI(cheaper)](https://github.com/PLangHQ/plang/blob/main/Documentation/PlangOrOpenAI.md). Using Plang service supports the project
 
 Set up Plang on your system. Download Plang from [the download page](https://github.com/PLangHQ/plang/releases) and follow our [Installation Guide](https://github.com/PLangHQ/plang/blob/main/Documentation/Install.md).
 
