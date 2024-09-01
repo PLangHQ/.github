@@ -47,8 +47,7 @@ These 6 steps replace over [100+ lines of C#/Java/Typescript code](https://gist.
 
 > [!CAUTION]
 > **Heads up: Building code costs money**
-> Each code line incurs usually between $0.0006 - $0.0009 fee via LLM. The payoff? Exceptional efficiency gains. You can choose to use [Plang service(simpler) or OpenAI(cheaper)](https://github.com/PLangHQ/plang/blob/main/Documentation/PlangOrOpenAI.md). Using Plang service supports the Plang project
-
+> Building each code line incurs usually between $0.002 - $0.009 fee via LLM. The payoff? Exceptional efficiency gains. You can choose to use [Plang service(simpler) or OpenAI(cheaper)](https://github.com/PLangHQ/plang/blob/main/Documentation/PlangOrOpenAI.md). Using Plang service supports the Plang project
 Set up Plang on your system. Download Plang from [the download page](https://github.com/PLangHQ/plang/releases) and follow our [Installation Guide](https://github.com/PLangHQ/plang/blob/main/Documentation/Install.md).
 
 ## Getting Started
