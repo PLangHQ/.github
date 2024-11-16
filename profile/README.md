@@ -46,7 +46,7 @@ It reduces complexity and bridges the gap between business and technical teams, 
 ## Screenshot
 Below is a screenshot from the developer tool (IDE) while coding in Plang
 
-![Plang IDE](./IDE.png)
+![Plang IDE](https://raw.githubusercontent.com/PLangHQ/plang/refs/heads/main/Documentation/IDE.png)
 
 
 ## Getting Started
